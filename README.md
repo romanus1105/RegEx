@@ -4,7 +4,7 @@ Here is my homework for "Regular expressions" lesson.
 You requires [Python](https://www.python.org/) v3+, as well as [pip](https://pypi.org/project/pip/) to run.
 
 ## Installation
-Install the dependencies and run:
+Clone repo and install the dependencies and run:
 ```sh
 git clone https://github.com/romanus1105/RegEx.git
 cd ./this_repo
@@ -19,5 +19,5 @@ chmod +x main.py
 ```
 For both Linux and the others:
 ```sh
-python3 pythonmain.py /path/to/your/csv/file
+python3 main.py /path/to/your/csv/file
 ```
